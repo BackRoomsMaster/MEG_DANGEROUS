@@ -4,6 +4,6 @@ Qui potrai provare cosa significa sopravvivere nei livelli più difficili delle 
 
 python (nome del file del livello.py)
 
-#STATUS :
+Livelli :
 
-Livello 611 - COMPLETATO 
+Livello 611 - La sentinella è consapevole del tuo arrivo, riuscirai a fuggire in tempo?
