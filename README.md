@@ -7,3 +7,5 @@ python (nome del file del livello.py)
 Livelli :
 
 Livello 611 - La sentinella è consapevole del tuo arrivo, riuscirai a fuggire in tempo?
+
+Livello 756 - Ti piacciono le mucche?
